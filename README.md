@@ -1,6 +1,11 @@
 # points
 random prototype 
 ==================
+
+I'm not entirely sure where I was going with this idea, but there is underlying code, and I don't want to waste it. 
+
+-Chris
+
 https://www.creatisoft.com
 
 
